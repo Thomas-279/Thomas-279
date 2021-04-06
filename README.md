@@ -11,5 +11,5 @@
 
 ✨✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-279&theme=calm&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-279&theme=calm&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-279&theme=calm&layout=compact)](https://github.com/Thomas-279/github-readme-stats)
