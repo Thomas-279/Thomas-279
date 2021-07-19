@@ -9,6 +9,8 @@
 
 ### Actuellement en recherche d'un poste de développeur Javascript ( Front / Back ou Fullstack )
 
+Visitez mon portfolio : https://thomasgarraut.netlify.app/
+
 ✨✨
 
 
