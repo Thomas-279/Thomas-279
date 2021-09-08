@@ -4,7 +4,7 @@
 
 - #Html #Css #Javascript #React #Redux #ExpressJs #PostgreSQL #Git
 
-- Mes prochains objectifs : Apprentissage de NextJs, Typescript
+- Mes prochains objectifs : Apprentissage de React-Native, Typescript
 
 
 ### Actuellement en recherche d'un poste de développeur Javascript ( Front / Back ou Fullstack )
