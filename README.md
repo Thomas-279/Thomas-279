@@ -2,7 +2,7 @@
 
 ### Je suis développeur Javascript Full stack spécialisé React / React Native
 
-- #Html #Css #Javascript #React #ReactNative #Redux #ExpressJs #PostgreSQL #Git
+- #Html #Css #Javascript #Typescript #React #ReactNative #Redux #ExpressJs #PostgreSQL #Git
 
 
 
