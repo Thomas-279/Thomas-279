@@ -1,10 +1,10 @@
 ### Bonjour ! 👋
 
-### Je suis développeur Javascript Full stack spécialisé React
+### Je suis développeur Javascript Full stack spécialisé React / React Native
 
-- #Html #Css #Javascript #React #Redux #ExpressJs #PostgreSQL #Git
+- #Html #Css #Javascript #React #ReactNative #Redux #ExpressJs #PostgreSQL #Git
 
-- Mes prochains objectifs : Apprentissage de React-Native, Typescript
+
 
 
 ### Actuellement en recherche d'un poste de développeur Javascript ( Front / Back ou Fullstack )
